@@ -1,4 +1,4 @@
 [workspace]
 members = ["*"]
-exclude = [".git", ".github", "target", "debug"]
+exclude = [".git", ".github", ".claude", "target", "debug"]
 resolver = "2"
